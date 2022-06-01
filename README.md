@@ -11,9 +11,10 @@
 </div>
   
   <div> 
-  <a href="https://www.youtube.com/channel/UCI8h10T22jZn3Yhlcc7XLDQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/andre_ricardo465/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/andrericardo465" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCI8h10T22jZn3Yhlcc7XLDQ/videos" target="_blank"><img src="youtube giphy.gif" width="150px" target="_blank"></a>         &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  <a href="https://www.instagram.com/andre_ricardo465/" target="_blank"><img src="instagram giphy.gif" width="150px" target="_blank"></a>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+ 	<a href="https://www.twitch.tv/andrericardo465" target="_blank"><img src="twitch giphy.gif" width="150px" target="_blank"></a>
   </div>
   
 <div style="display: inline_block"><br>
