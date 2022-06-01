@@ -1,4 +1,4 @@
-<h1 align = "justify"> Olá <img src="Coelho giphy.gif" width="50px">, Meu nome é André Ricardo</h1>
+<h1 align = "justify"> Olá <img src="Coelho giphy.gif" width="50px">, Meu nome é André Ricardo <img src="vida giphy.gif" width="60px"> </h1>
 
 - 🔭 Atualmente trabalho com Eletrônica Automotiva
 - 🌱 Estudando CSS3 - HTML5 - Python
@@ -14,7 +14,7 @@
   <h2 align = "justify"> <img src="CSS3 giphy.gif" width="50px"> </h2>
   <h2 align = "center"> <img src="HTML5 giphy.gif" width="50px"> </h2>
   <h2 align = "right"> <img src="Python giphy.gif" width="50px"> </h2>
-  <br><br>
+  <h2 align = "center"> <img src="loading giphy.gif" width="600px"> </h2>
  
 </div>
   
