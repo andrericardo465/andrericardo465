@@ -1,4 +1,4 @@
-
+<h1 align = "justify"> Olá <img src="Coelho giphy.gif" width="50px">, Meu nome é André Ricardo</h1>
 
 - 🔭 Atualmente trabalho com Eletrônica Automotiva
 - 🌱 Estudando CSS3 - HTML5 - Python
