@@ -11,10 +11,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="left" alt="Andre-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andre-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Andre-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h2 align = "justify"> <img src="CSS3 giphy.gif" width="50px"> </h2>
+  <h2 align = "center"> <img src="HTML5 giphy.gif" width="50px"> </h2>
+  <h2 align = "right"> <img src="Python giphy.gif" width="50px"> </h2>
   <br><br>
-  <img align="right" alt="programador-pic" height="250" style="border-radius:50px;" src="programador.webp?width=676&height=676">
-  
+ 
 </div>
+  
+  
